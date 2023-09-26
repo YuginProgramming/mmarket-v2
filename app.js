@@ -39,7 +39,7 @@ const sendMorningMessage = async () => {
       ],
       [
         {
-          text: '✨ замовити або запитати ✨',
+          text: '✨ ЗАМОВИТИ ✨',
           url: 'https://t.me/mmarketkiev_bot',
         },
       ],
